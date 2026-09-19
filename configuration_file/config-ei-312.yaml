@@ -95,7 +95,7 @@ production pathways:
       variable: Production|Electricity|Renewable|Photovoltaic
     ecoinvent alias:
       name: electricity production, photovoltaic, production mix
-      reference product: electricity, low voltage
+      reference product: electricity, photovoltaic, at plant
       exists in original database: True
 
   wind_onshore:
