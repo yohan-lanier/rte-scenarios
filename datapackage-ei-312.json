@@ -176,7 +176,7 @@
         {
             "path": "configuration_file/config-ei-312.yaml",
             "profile": "data-resource",
-            "name": "config-ei-312",
+            "name": "config",
             "format": "yaml",
             "mediatype": "text/yaml",
             "encoding": "utf-8"
